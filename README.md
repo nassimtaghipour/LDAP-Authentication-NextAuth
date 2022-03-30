@@ -1,4 +1,4 @@
-# LDAP-Authentication-with-NextAuth
+# LDAP Authentication with NextAuth
 
 are you new in Nextjs?
 
